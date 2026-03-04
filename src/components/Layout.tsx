@@ -170,6 +170,7 @@ export default function Layout() {
             <div>
               <p className="text-[10px] text-gold-500 font-semibold">Powered by Hoop Africa</p>
               <p className="text-[9px] text-white/40">Supporting Namibia's Development</p>
+              <a href="mailto:info@hoopafrica.org" className="text-[9px] text-white/50 hover:text-white/80 transition-colors">info@hoopafrica.org</a>
             </div>
           </div>
         </div>
@@ -290,7 +291,9 @@ export default function Layout() {
                 <p className="text-xs font-medium text-slate-700">
                   Powered by <span className="text-primary-500 font-semibold">Hoop Africa</span>
                 </p>
-                <p className="text-[10px] text-slate-400">Supporting Namibia's Development</p>
+                <p className="text-[10px] text-slate-400">
+                  Supporting Namibia's Development — <a href="mailto:info@hoopafrica.org" className="text-primary-500 hover:underline">info@hoopafrica.org</a>
+                </p>
               </div>
             </div>
             <div className="flex items-center gap-2">
