@@ -2,6 +2,10 @@
 
 **A digital platform for monitoring, evaluating, and strengthening accountability across Namibia's State-Owned Enterprises (SOEs).**
 
+### [View Live Demo](https://namibia-pepas.vercel.app)
+
+> **Note:** PEPAS currently runs on **simulated data** for demonstration purposes. The mock dataset includes 12 representative Namibian SOEs with realistic but fictional performance scores, financial indicators, and compliance records. In production, this will connect to live data feeds from SOE submissions and Treasury systems.
+
 ---
 
 ## About
@@ -62,6 +66,8 @@ Outcome-based evaluation replacing superficial peer reviews. Five balanced dimen
 | Charts | Recharts |
 | Icons | Lucide React |
 | Routing | React Router DOM |
+| Hosting | [Vercel](https://namibia-pepas.vercel.app) |
+| Data | Simulated (mock) — production will integrate live SOE data |
 
 ---
 
