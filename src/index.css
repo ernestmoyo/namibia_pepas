@@ -1,0 +1,53 @@
+@import "tailwindcss";
+
+@theme {
+  /* Namibia Blue */
+  --color-primary-50: #eff6ff;
+  --color-primary-100: #dbeafe;
+  --color-primary-200: #bfdbfe;
+  --color-primary-300: #93c5fd;
+  --color-primary-400: #60a5fa;
+  --color-primary-500: #003580;
+  --color-primary-600: #002d6b;
+  --color-primary-700: #002456;
+  --color-primary-800: #001b41;
+  --color-primary-900: #00122c;
+
+  /* Namibia Red */
+  --color-accent-50: #fef2f2;
+  --color-accent-100: #fee2e2;
+  --color-accent-200: #fecaca;
+  --color-accent-500: #c8102e;
+  --color-accent-600: #a80d25;
+  --color-accent-700: #8b0a1e;
+
+  /* Namibia Green */
+  --color-nam-green-50: #f0fdf4;
+  --color-nam-green-100: #dcfce7;
+  --color-nam-green-200: #bbf7d0;
+  --color-nam-green-500: #009543;
+  --color-nam-green-600: #007a37;
+  --color-nam-green-700: #00612c;
+
+  /* Namibia Gold (Sun) */
+  --color-gold-50: #fffbeb;
+  --color-gold-100: #fef3c7;
+  --color-gold-200: #fde68a;
+  --color-gold-400: #facc15;
+  --color-gold-500: #FFD700;
+  --color-gold-600: #d4a843;
+  --color-gold-700: #b8922a;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: "Inter", system-ui, -apple-system, sans-serif;
+  background: #f8fafc;
+  color: #1e293b;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
