@@ -121,3 +121,5 @@ Proprietary — Hoop Africa Foundation. All rights reserved.
 ---
 
 *Built with purpose for Namibia by [Hoop Africa](https://www.hoopafrica.org)*
+
+For discussions on development: **info@hoopafrica.org**
