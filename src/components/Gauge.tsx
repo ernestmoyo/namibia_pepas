@@ -16,7 +16,7 @@ export default function Gauge({
   size = "md",
 }: GaugeProps) {
   const pct = Math.min(Math.max(value / max, 0), 1)
-  const angle = -90 + pct * 180 // -90 to 90 degrees
+  const angle = -180 + pct * 180 // -180 (left) to 0 (right), matching arc
 
   const dims = {
     sm: { w: 100, h: 60, r: 40, stroke: 8, fontSize: 14, labelSize: 9 },
