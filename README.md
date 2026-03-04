@@ -18,7 +18,9 @@ Namibia's SOE portfolio comprises **81-98 entities** controlling assets worth ap
 
 ## Powered by Hoop Africa
 
-PEPAS is developed by **[Hoop Africa Foundation](https://hoopafrica.org)** — an organization committed to supporting Namibia's development through evidence-based solutions.
+PEPAS is developed by **[Hoop Africa Foundation](https://www.hoopafrica.org)** — an organization committed to supporting Namibia's development through evidence-based solutions.
+
+**Website:** [www.hoopafrica.org](https://www.hoopafrica.org) | **Email:** info@hoopafrica.org | **Phone:** +264 81 302 2416
 
 ### From Research to Action
 
@@ -118,4 +120,4 @@ Proprietary — Hoop Africa Foundation. All rights reserved.
 
 ---
 
-*Built with purpose for Namibia by [Hoop Africa](https://hoopafrica.org)*
+*Built with purpose for Namibia by [Hoop Africa](https://www.hoopafrica.org)*
